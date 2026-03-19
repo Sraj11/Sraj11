@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Shubham Raj 👋
 
 <!--
 **Sraj11/Sraj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software Developer with just 6 year of experience interested to solve challenging problem and has work on Backend,AI project using various technology like python and its packages,AWS,IBM cloud, kubernetes,docker. I am currently learning and enhancing my skills in Backend and AI development to help me grow in my career. 
