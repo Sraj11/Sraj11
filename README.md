@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Developer. I am currently learning and enhancing my skills in Backend and AI development.
+I am a Software Developer interested to solve challenging problem and has work on Backend,AI project. I am currently learning and enhancing my skills in Backend and AI development to help me grow in my career. 
