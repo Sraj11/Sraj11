@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Shubham Raj 👋
+
 
 I am a **Software Developer** based in Bengaluru, passionate about backend development, machine learning, and building scalable cloud architectures. 🚀
 
@@ -23,7 +23,7 @@ I am a **Software Developer** based in Bengaluru, passionate about backend devel
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
-*   **Languages:** Python (3)
+*   **Languages:** Python
 *   **Frameworks/Libraries:** FastAPI, Scikit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scrapy
 
 ### Cloud, DevOps & Tools
