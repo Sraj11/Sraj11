@@ -24,7 +24,7 @@ I am a **Software Developer** based in Bengaluru, passionate about backend devel
 
 ### Languages & Frameworks
 *   **Languages:** Python
-*   **Frameworks/Libraries:** FastAPI, Scikit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scrapy
+*   **Frameworks/Libraries:** FastAPI, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV
 
 ### Cloud, DevOps & Tools
 *   **Cloud:** Azure (Python SDK), AWS (S3), COS
