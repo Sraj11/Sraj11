@@ -15,55 +15,111 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi there, I'm Shubham Raj 👋</h1>
 
-I am a **Software Developer** based in Bengaluru, passionate about backend development, machine learning, and building scalable cloud architectures. 🚀
+<h3 align="center">Software Developer | Aspiring AI Backend Engineer</h3>
 
----
+<p align="center">
+  Building scalable cloud infrastructure and intelligent document processing systems — now diving deep into AI/ML backend engineering.
+</p>
 
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-*   **Languages:** Python
-*   **Frameworks/Libraries:** FastAPI, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV
-
-### Cloud, DevOps & Tools
-*   **Cloud:** Azure (Python SDK), AWS (S3), COS
-*   **DevOps:** Docker, Kubernetes, Prometheus, Git, GitLab, Poetry, pre-commit
-*   **Environment:** Linux, Windows, MacOS, VSCode, Jupyter, Anaconda, Postman, Httpie
-
----
-
-## 💼 Work Experience
-
-### **IBM India Pvt Ltd.** | Software Developer | Feb 2022 - Present
-*   Specializing in KVP extraction from documents, OCR refinement, and cloud-native microservice development.
-*   **Key Highlights:** Implemented data isolation in multi-tenant architectures, optimized Redis performance, integrated sidecar components, and streamlined ML model storage via AWS S3 and Kubernetes jobs.
-
-### **Koireader Technologies Pvt. Ltd.** | Python Developer | Oct 2020 - Feb 2022
-*   Focused on document digitization and infrastructure automation.
-*   **Key Highlights:** Built tools using Azure Python SDK to manage VM infrastructure and developed regex-based document parsing for the logistics industry.
-
-### **Cosmonet Solutions Pvt. Ltd.** | Python Developer | Apr 2019 - Nov 2019
-*   Developed ML/DL models for medical imaging and classification tasks.
-*   **Key Highlights:** Built and deployed Flask-based APIs for ML models and performed extensive image processing using OpenCV.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-raj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubham.raj11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
-*   **B.Tech in Computer Science & Engineering** | Asansol Engineering College (2014-2018)
+### 🚀 About Me
+
+- 🛠️ Software Developer with **5+ years** of experience engineering scalable, cloud-native systems
+- 🧠 Passionate about designing **AI-driven backend systems** that turn unstructured data into reliable, structured insights
+- 📄 My work has spanned **multi-tenant microservices** to **intelligent document processing pipelines**, including systems that significantly boosted KVP (Key-Value Pair) extraction accuracy
+- 🔍 Self-motivated problem-solver, always exploring ways to apply production-grade engineering to high-accuracy AI systems
+- 📍 Based in Bengaluru, India
 
 ---
 
-## 📫 Let's Connect
-*   **Email:** shubham.raj11@gmail.com
-*   **LinkedIn:** [Shubham Raj](https://www.linkedin.com/in/shubham-raj)
-*   **Location:** Bengaluru, India
+### 🧰 Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
+**Databases & Storage**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+</p>
+
+**DevOps, Infrastructure & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" />
+</p>
+
+**Tools & Dev Environment**
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+**Operating Systems**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
 
 ---
 
-> "Passionate about AI and continuously exploring new technologies to drive innovation and solve complex challenges."
+### 🎓 Certifications
 
-<!-- 
-Optional: Add your GitHub stats card here!
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
--->
+- ✅ Machine Learning — Coursera
+- ✅ Neural Networks and Deep Learning — Coursera
+- ✅ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization — Coursera
+- ✅ Convolutional Neural Networks — Coursera
+- 🔄 Complete Guide to Building, Deploying, and Optimizing Generative AI with LangChain and HuggingFace — Udemy *(In Progress)*
+
+---
+
+### 🏫 Education
+
+**B.Tech, Computer Science & Engineering**
+Asansol Engineering College, Asansol
+
+---
+
+---
+
+### 📫 Let's Connect
+
+<p <p align="center">
+  <a href="https://www.linkedin.com/in/shubham-raj" target="_blank">LinkedIn</a> •
+  <a href="mailto:shubham.raj11@gmail.com">Email</a> •
+  <a href="https://drive.google.com/file/d/13xbh2soHJJlzmTHFzmQlsuWY0FTEAXRy/view?usp=drive_link" target="_blank">Resume</a>
+</p>
+<p align="center"><i>Open to opportunities and collaborations in AI/ML backend engineering 🚀</i></p>
